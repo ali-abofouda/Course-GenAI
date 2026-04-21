@@ -7,6 +7,9 @@
 - عدد المحاضرات: 224
 - المدة الإجمالية: 57 ساعة و37 دقيقة
 
+## رابط الكورس
+https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/
+
 ## ماذا ستتعلم في الكورس؟
 1. أساسيات Python
 2. NLP الكلاسيكي (Tokenization, Stemming, Lemmatization, TF-IDF, Word2Vec)
